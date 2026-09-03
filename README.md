@@ -4,14 +4,11 @@ Welcome to my GitHub profile! I'm a developer passionate about building modern w
 
 ## 🔗 Connect with me
 <p>
-  <a href="https://www.x.com/your_handle" target="_blank">
+  <a href="https://x.com/dhiaa_ndj?s=11" target="_blank">
     <img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" height="25" alt="X (Twitter)">
   </a> 
-  <a href="https://www.linkedin.com/in/your_linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/dhiya-nedjema-1848933a3" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn">
-  </a> 
-  <a href="https://www.instagram.com/your_instagram" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram">
   </a>
 </p>
 
@@ -20,7 +17,6 @@ Welcome to my GitHub profile! I'm a developer passionate about building modern w
 ## 🚀 Featured Project
 <p align="center">
   <a href="https://your-project-link.com" target="_blank">
-    <!-- حط صورة المشروع تاعك هنا أو نحيها إذا ماعندكش -->
     <img src="https://via.placeholder.com/800x400?text=My+Awesome+Project" alt="Featured Project" width="100%">
   </a>
 </p>
@@ -28,8 +24,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building modern w
 ---
 
 ## 🛠️ Tech Stack & Skills
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React / Vue / Nuxt / Node.js
+- **Languages:** HTML5, CSS3, JavaScript
 - **Tools:** Git, GitHub, VS Code
 
 ---
